@@ -2,13 +2,13 @@
 
 <img src="cover.png" width="100%" >
 
-### YouTube Tutorial:
+### YouTube refrence:
 
 https://youtu.be/4Gt_YyGf6B0?si=u8eITdczbHkTIY6e
 
 ### Try the game here:
 
-https://codingwith-adam.github.io/tic-tac-toe-react/
+here pase link
 
 In this Tutorial we are going to build an awesome version of Tic Tac Toe using React.
 
